@@ -2,6 +2,8 @@
 
 This is a library which implements the Secure Hash Algorithm 1 (SHA-1) described in [RFC 3174](https://tools.ietf.org/html/rfc3174).
 
+***NOTE: This library is deprecated.  The [`Hash` library](https://github.com/rhymu8354/Hash.git) should be used instead, as it has the SHA-1 implementation as well as other hash functions as well.***
+
 ## Usage
 
 The `Sha1` functions are used to compute the SHA-1 hash of either a string or vector of data.
